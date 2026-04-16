@@ -1,0 +1,2 @@
+method,n_draws,bias_tau,rmse_tau,mae_tau,mean_treated_block_rmse,mean_treated_block_mae,mean_observed_block_rmse,mean_runtime_seconds
+knn,1,0.1488813161849975,0.1488813161849975,0.1488813161849975,0.2093385905027389,0.1809199005365371,0.0,0.0018749237060546

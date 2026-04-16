@@ -1,0 +1,2 @@
+draw_name,draw_id,method,runtime_seconds,treated_block_rmse,treated_block_mae,tau_hat,tau_sq_error,tau_abs_error,observed_block_rmse,n_treated_cells
+draw_0001,1,knn,0.0018749237060546875,0.20933859050273895,0.18091990053653717,0.14888131618499756,0.022165646308977216,0.14888131618499756,0.0,100

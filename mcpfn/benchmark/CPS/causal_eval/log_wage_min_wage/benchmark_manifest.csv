@@ -1,0 +1,4 @@
+draw_id,draw_name,shape,n_treated_cells,n_observed_cells,n_missing_cells,outcome,assignment,N0,T0,N1_realized,T1_realized,treated_row_start,treated_row_end,post_col_start,post_col_end
+1,draw_0001,"{'n_rows': 50, 'n_cols': 40}",100,1900,100,log_wage,min_wage,40,30,10,10,41,50,31,40
+2,draw_0002,"{'n_rows': 50, 'n_cols': 40}",30,1970,30,log_wage,min_wage,47,30,3,10,48,50,31,40
+3,draw_0003,"{'n_rows': 50, 'n_cols': 40}",100,1900,100,log_wage,min_wage,40,30,10,10,41,50,31,40
